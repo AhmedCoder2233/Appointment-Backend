@@ -34,7 +34,7 @@ def SendEmail(to: str, body: str, subject: str):
     message["subject"] = subject
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-        server.login("ahmedmemon3344@gmail.com", "enme cmsb pjnu edzt")
+        server.login("ahmedmemon3344@gmail.com", os.getenv("app_pass"))
         server.send_message(message)
 
 @function_tool

@@ -9,15 +9,16 @@ from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 from auth import *
 from fastapi.middleware.cors import CORSMiddleware
 import json
+import os
 
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 security = HTTPBearer()
 
-ULTRA_INSTANCE_ID = "instance130942"
-ULTRA_TOKEN = "3hmca8ylagtotnkj"
-YOUR_WHATSAPP_NUMBER = "923368952826"  
+ULTRA_INSTANCE_ID = os.getenv("INSTANCE")
+ULTRA_TOKEN = os.getenv("TOKEN")
+YOUR_WHATSAPP_NUMBER = os.getenv("WHATSAPP")  
 
 app.add_middleware(
         CORSMiddleware,

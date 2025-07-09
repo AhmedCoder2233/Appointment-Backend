@@ -1,0 +1,17 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bcrypt>=4.3.0",
+    "chainlit>=2.6.0",
+    "fastapi[standard]>=0.115.14",
+    "httpx>=0.28.1",
+    "openai-agents>=0.1.0",
+    "passlib>=1.7.4",
+    "psycopg2>=2.9.10",
+    "python-jose[cryptography]>=3.5.0",
+    "sqlalchemy>=2.0.41",
+]

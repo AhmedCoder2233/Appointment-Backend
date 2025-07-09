@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "General Consultation",
+    "short": "Get expert advice from certified doctors.",
+    "details": "Full body checkup, diagnosis & medical advice.",
+    "image": "https://cdn-icons-png.flaticon.com/512/4206/4206483.png"
+  },
+  {
+    "id": 2,
+    "title": "Dental Care",
+    "short": "Professional dental cleaning and checkups.",
+    "details": "Covers dental exams, polishing & cavity check.",
+    "image": "https://cdn-icons-png.flaticon.com/512/810/810452.png"
+  },
+  {
+    "id": 3,
+    "title": "Lab Test Booking",
+    "short": "Home sample collection & online reports.",
+    "details": "Lab tests with fast reporting and tracking.",
+    "image": "https://cdn-icons-png.flaticon.com/512/2965/2965567.png"
+  },
+  {
+    "id": 4,
+    "title": "Eye Checkup",
+    "short": "Get your eyes examined by professionals.",
+    "details": "Full retina scan, pressure, and vision tests.",
+    "image": "https://cdn-icons-png.flaticon.com/512/4320/4320337.png"
+  },
+  {
+    "id": 5,
+    "title": "Physiotherapy",
+    "short": "Recover and strengthen your body.",
+    "details": "Post-surgery recovery, rehab, and fitness.",
+    "image": "https://cdn-icons-png.flaticon.com/512/3585/3585294.png"
+  },
+  {
+    "id": 6,
+    "title": "Cardiology",
+    "short": "Heart diagnosis and care.",
+    "details": "ECG, ECHO, and consultation with heart specialists.",
+    "image": "https://cdn-icons-png.flaticon.com/512/4407/4407405.png"
+  }
+]

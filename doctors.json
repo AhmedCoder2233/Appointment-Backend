@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ayesha Khan",
+    "specialization": "General Physician",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Imran Malik",
+    "specialization": "Dentist",
+    "image": "https://randomuser.me/api/portraits/men/45.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Hira Siddiqui",
+    "specialization": "Lab Technician",
+    "image": "https://randomuser.me/api/portraits/women/32.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Usman Tariq",
+    "specialization": "Cardiologist",
+    "image": "https://randomuser.me/api/portraits/men/31.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Sarah Naveed",
+    "specialization": "Eye Specialist",
+    "image": "https://randomuser.me/api/portraits/women/21.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Danish Ali",
+    "specialization": "Physiotherapist",
+    "image": "https://randomuser.me/api/portraits/men/11.jpg"
+  }
+]
